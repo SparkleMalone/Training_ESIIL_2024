@@ -1,4 +1,4 @@
-# Postdoc OASIS
+# Training_ESIIL_2024
 This is the central hub for information pertaining to ESIIL Postdocs
 
 # [Your Name]
